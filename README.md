@@ -1,4 +1,4 @@
-# Your Story — Compartilhamento de Histórias Anônimas
+# Your Story – Compartilhamento de Histórias Anônimas
 
 **Your Story** é uma aplicação web simples para compartilhar histórias de forma anônima.  
 O foco é oferecer um CRUD funcional com suporte a Markdown e renderização segura de conteúdo.
