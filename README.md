@@ -78,5 +78,3 @@ npm run devStart
 
 ### Acessar no Navegador
 - **App**: [http://localhost:3000](http://localhost:3000)
-
----
