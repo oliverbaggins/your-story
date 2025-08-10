@@ -80,6 +80,3 @@ npm run devStart
 - **App**: [http://localhost:3000](http://localhost:3000)
 
 ---
-
-## Licença
-Distribuído sob licença MIT.
